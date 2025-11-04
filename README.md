@@ -40,7 +40,7 @@ Passos
     Clone o repositório:
     Bash
 
-git clone https://github.com/SEU-USUARIO/Java-POO-LMS-CLI.git
+git clone [https://github.com/SEU-USUARIO/Java-POO-LMS-CLI.git](https://github.com/DevMatheusSousa/Java-POO-LMS-CLI.git)
 cd Java-POO-LMS-CLI
 
 Compile e Execute (Via terminal ou IDE):
